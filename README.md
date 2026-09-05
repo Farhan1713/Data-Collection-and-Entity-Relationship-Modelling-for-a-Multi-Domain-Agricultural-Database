@@ -178,4 +178,4 @@ This project was developed using **Scrum**, organized into two sprints:
 
 ## Documentation
 
-The full project report — covering the problem statement, objectives, sprint-by-sprint development, complete normalization walkthrough (1NF through BCNF), ETL workflow, deployment, and team retrospective — is included in this repository / linked here:13(Agriculture)(3).pdf.
+The full project report — covering the problem statement, objectives, sprint-by-sprint development, complete normalization walkthrough (1NF through BCNF), ETL workflow, deployment, and team retrospective — is included in this repository.
